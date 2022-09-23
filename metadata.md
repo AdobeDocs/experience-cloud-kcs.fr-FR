@@ -3,10 +3,11 @@ cloud: Experience Cloud, Document Cloud
 solution-title: Troubleshooting
 type: Troubleshooting
 index: true
-source-git-commit: e8f4ca2dd578944d4fe399074fab461de88ad247
+git-repo: https://github.com/AdobeDocs/experience-cloud-kcs.fr-FR
+source-git-commit: fd6d5b238753d067c34e71f283f1c92cb7d53237
 workflow-type: tm+mt
-source-wordcount: '126'
-ht-degree: 100%
+source-wordcount: '130'
+ht-degree: 96%
 
 ---
 
