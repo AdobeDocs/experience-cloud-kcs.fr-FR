@@ -1,5 +1,5 @@
 ---
-source-git-commit: e8f4ca2dd578944d4fe399074fab461de88ad247
+source-git-commit: 0c3e421beca46d9fe1952b1f98538a50697216a0
 workflow-type: tm+mt
 source-wordcount: '430'
 ht-degree: 100%
@@ -35,7 +35,7 @@ If you submit a pull request with significant changes to documentation and code 
 
 ### Modifications majeures par les employés d’Adobe
 
-Si vous êtes rédacteur technique, responsable de programme ou développeur au sein de l’équipe produit d’une solution Adobe Experience Cloud et qu’il vous incombe de contribuer à ou de rédiger des articles techniques, vous devez utiliser le référentiel privé sur `https://git.corp.adobe.com/AdobeDocs`.
+Si vous êtes rédacteur technique, responsable de programme ou développeur au sein de l’équipe produit d’une solution [!UICONTROL Adobe Experience Cloud] et qu’il vous incombe de contribuer ou de rédiger des articles techniques, vous devez utiliser le référentiel privé sur `https://git.corp.adobe.com/AdobeDocs`.
 
 <!--Employees from other parts of the Adobe world should use the public repo for minor updates.-->
 
