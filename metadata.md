@@ -4,17 +4,17 @@ solution-title: Troubleshooting
 type: Troubleshooting
 index: true
 git-repo: https://github.com/AdobeDocs/experience-cloud-kcs.fr-FR
-source-git-commit: 0f546139887bd42346c58b8aa0ef76015688601c
+source-git-commit: 2384c7257d7b62f6c3387d15bed9b372901f6b0b
 workflow-type: tm+mt
-source-wordcount: '128'
-ht-degree: 85%
+source-wordcount: '126'
+ht-degree: 87%
 
 ---
 
 
 # Métadonnées pour une utilisation interne
 
-Le [!DNL metadata.md] comprend des métadonnées au niveau du référentiel qui sont transmises au guide de l’utilisateur. [!DNL TOC.md] dans le référentiel. Si vous souhaitez modifier le contenu du fichier metadata.md pour un guide de l’utilisateur, faites-le dans le fichier TOC.md.
+La variable [!DNL metadata.md] comprend des métadonnées au niveau du référentiel qui sont transmises au guide de l’utilisateur. [!DNL TOC.md] dans le référentiel. Si vous souhaitez modifier le contenu du fichier metadata.md pour un guide de l’utilisateur, faites-le dans le fichier TOC.md.
 
 | métadonnées | utilisation |
 |--- |--- |
